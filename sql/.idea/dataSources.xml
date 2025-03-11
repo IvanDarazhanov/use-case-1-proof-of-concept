@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="Snowflake" uuid="8bb6e70e-9a63-4328-a4dd-989867d425d2">
+      <driver-ref>snowflake</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>net.snowflake.client.jdbc.SnowflakeDriver</jdbc-driver>
+      <jdbc-url>jdbc:snowflake://https://yrlxido-hs55751.snowflakecomputing.com:443?warehouse=public&amp;db=luna_parkdb</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
+  </component>
+</project>
