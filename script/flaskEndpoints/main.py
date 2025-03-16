@@ -5,12 +5,12 @@ app = Flask(__name__)
 
 # Конфигурация за връзка със Snowflake
 SNOWFLAKE_CONFIG = {
-    "user": "your_user",
-    "password": "your_password",
-    "account": "your_account",
-    "warehouse": "your_warehouse",
-    "database": "your_database",
-    "schema": "your_schema"
+    "user": "IVANDARAZHANOV",
+    "password": "DARENAdarena123",
+    "account": "ivandarazhanov17a@gmail.com",
+    "warehouse": "snowflake",
+    "database": "snowflakedb",
+    "schema": "lunaparkdb"
 }
 
 def get_snowflake_connection():
